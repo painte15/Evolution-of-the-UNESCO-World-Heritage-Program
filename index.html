@@ -20,7 +20,7 @@
     Author: BootstrapMade.com
     Author URL: https://bootstrapmade.com
   ======================================================= -->
-  <!--Chartist CDN. Korekara ikimasho!-->
+    <!--Chartist CDN. Korekara ikimasho!-->
     <link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
     <script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
 </head>
@@ -167,6 +167,7 @@
           <div class="col-md-12 text-center">
             <h2 class="service-title pad-bt15">Our Recent Works</h2>
             <!--Chartist stuff-->
+            <div>
 var data = {
   labels: ['1', '2', '3', '4', '5', '6'],
   series: [
@@ -207,6 +208,7 @@ var responsiveOptions = [
 
 /* Initialize the chart with the above settings */
 new Chartist.Line('#my-chart', data, options, responsiveOptions);
+            </div>
             <!--End of line-->
             
             
