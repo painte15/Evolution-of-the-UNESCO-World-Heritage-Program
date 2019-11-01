@@ -172,15 +172,25 @@
             
             <!--Chartist stuff-->
             <div class="ct-chart ct-perfect-fourth">
-          <script>
-var data = {
-  labels: ['1978', '1983', '1987', '1992', '1997', '2002', '2007', '2012', '2017', '2022'],
-  series: [
-    ['Asia', 'Oceania', 'Americas', 'Africa', 'Europe']
-  ]
-};
-
-new Chartist.Line('.ct-chart', data);
+         <script>
+   fetch('data/unesco-data.json')
+  .then(function(response) {
+    return response.json();
+  })
+  .then(function(ids) {
+  //data variable will go here
+    var data = {
+      labels: ids.map(function(id) {
+        return id.Label;
+      }),
+      series: ids.map(function(id) {
+        return id.Value;
+      })
+    };
+  
+   //define chart variable will go here
+    var chart = new Chartist.Bar('.ct-chart', data, options);
+  });
           </script>
 </div>
             <!--End of line-->
