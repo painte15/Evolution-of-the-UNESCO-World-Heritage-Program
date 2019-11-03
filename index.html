@@ -31,15 +31,21 @@
 
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
-          ['Year', 'Sales', 'Expenses'],
-          ['2004',  1000,      400],
-          ['2005',  1170,      460],
-          ['2006',  660,       1120],
-          ['2007',  1030,      540]
+          ['Year', 'Cultural', 'Natural', 'Mixed'],
+          ['1977',  0, 0, 0],
+          ['1982',  96,      31, 7],
+          ['1987',  114,       32, 5],
+          ['1992',  66,      19, 7],
+          ['1997',  141,      29, 3],
+          ['2002',  145,      30, 4],
+          ['2007',  96,      24, 1],
+          ['2012',  86,      23, 3],
+          ['2017',  88,      18, 5],
+          ['2019',  37,      7, 4]
         ]);
 
         var options = {
-          title: 'Company Performance',
+          title: 'Types of World Heritage Sites by Year',
           curveType: 'function',
           legend: { position: 'bottom' }
         };
