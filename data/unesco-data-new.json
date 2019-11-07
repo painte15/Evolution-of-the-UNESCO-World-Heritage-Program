@@ -1,0 +1,718 @@
+{
+  "year": {
+    "1978": {
+      "Total": 12,
+      "Region":{
+        "Africa": 3,
+        "Arab States": 0,
+        "Asia and the Pacific": 0,
+        "Eurasia": 0,
+        "Europe and North America": 7,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 2
+      },
+      "Type": {
+        "Cultural": 8,
+        "Mixed": 0,
+        "Natural": 4
+      }
+    },
+    "1979": {
+      "Total": 45,
+      "Region":{
+        "Africa": 4,
+        "Arab States": 9,
+        "Asia and the Pacific": 5,
+        "Eurasia": 0,
+        "Europe and North America": 25,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 0
+      },
+      "Type": {
+        "Cultural": 34,
+        "Mixed": 3,
+        "Natural": 8
+      }
+    },
+    "1980": {
+      "Total": 27,
+      "Region":{
+        "Africa": 7,
+        "Arab States": 4,
+        "Asia and the Pacific": 3,
+        "Eurasia": 0,
+        "Europe and North America": 10,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 3
+      },
+      "Type": {
+        "Cultural": 22,
+        "Mixed": 0,
+        "Natural": 5
+      }
+    },
+    "1981": {
+      "Total": 26,
+      "Region":{
+        "Africa": 5,
+        "Arab States": 2,
+        "Asia and the Pacific": 5,
+        "Eurasia": 0,
+        "Europe and North America": 11,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 3
+      },
+      "Type": {
+        "Cultural": 15,
+        "Mixed": 2,
+        "Natural": 9
+      }
+    },
+    "1982": {
+      "Total": 24,
+      "Region":{
+        "Africa": 3,
+        "Arab States": 9,
+        "Asia and the Pacific": 5,
+        "Eurasia": 0,
+        "Europe and North America": 3,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 4
+      },
+      "Type": {
+        "Cultural": 17,
+        "Mixed": 2,
+        "Natural": 5
+      }
+    },
+    "1983": {
+      "Total": 29,
+      "Region":{
+        "Africa": 2,
+        "Arab States": 0,
+        "Asia and the Pacific": 4,
+        "Eurasia": 0,
+        "Europe and North America": 18,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 5
+      },
+      "Type": {
+        "Cultural": 19,
+        "Mixed": 1,
+        "Natural": 9
+      }
+    },
+    "1984": {
+      "Total": 22,
+      "Region":{
+        "Africa": 3,
+        "Arab States": 4,
+        "Asia and the Pacific": 3,
+        "Eurasia": 0,
+        "Europe and North America": 10,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 2
+      },
+      "Type": {
+        "Cultural": 15,
+        "Mixed": 0,
+        "Natural": 7
+      }
+    },
+    "1985": {
+      "Total": 30,
+      "Region":{
+        "Africa": 1,
+        "Arab States": 6,
+        "Asia and the Pacific": 5,
+        "Eurasia": 0,
+        "Europe and North America": 14,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 4
+      },
+      "Type": {
+        "Cultural": 25,
+        "Mixed": 1,
+        "Natural": 4
+      }
+    },
+    "1986": {
+      "Total": 29,
+      "Region":{
+        "Africa": 2,
+        "Arab States": 3,
+        "Asia and the Pacific": 5,
+        "Eurasia": 0,
+        "Europe and North America": 17,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 2
+      },
+      "Type": {
+        "Cultural": 23,
+        "Mixed": 1,
+        "Natural": 5
+      }
+    },
+    "1987": {
+      "Total": 41,
+      "Region":{
+        "Africa": 2,
+        "Arab States": 2,
+        "Asia and the Pacific": 11,
+        "Eurasia": 0,
+        "Europe and North America": 17,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 9
+      },
+      "Type": {
+        "Cultural": 32,
+        "Mixed": 2,
+        "Natural": 7
+      }
+    },
+    "1988": {
+      "Total": 27,
+      "Region":{
+        "Africa": 3,
+        "Arab States": 3,
+        "Asia and the Pacific": 5,
+        "Eurasia": 0,
+        "Europe and North America": 12,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 4
+      },
+      "Type": {
+        "Cultural": 19,
+        "Mixed": 3,
+        "Natural": 5
+      }
+    },
+    "1989": {
+      "Total": 7,
+      "Region":{
+        "Africa": 2,
+        "Arab States": 1,
+        "Asia and the Pacific": 1,
+        "Eurasia": 0,
+        "Europe and North America": 3,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 0
+      },
+      "Type": {
+        "Cultural": 4,
+        "Mixed": 1,
+        "Natural": 2
+      }
+    },
+    "1990": {
+      "Total": 16,
+      "Region":{
+        "Africa": 1,
+        "Arab States": 0,
+        "Asia and the Pacific": 4,
+        "Eurasia": 0,
+        "Europe and North America": 8,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 3
+      },
+      "Type": {
+        "Cultural": 11,
+        "Mixed": 3,
+        "Natural": 2
+      }
+    },
+    "1991": {
+      "Total": 22,
+      "Region":{
+        "Africa": 2,
+        "Arab States": 0,
+        "Asia and the Pacific": 9,
+        "Eurasia": 0,
+        "Europe and North America": 8,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 3
+      },
+      "Type": {
+        "Cultural": 16,
+        "Mixed": 0,
+        "Natural": 6
+      }
+    },
+    "1992": {
+      "Total": 20,
+      "Region":{
+        "Africa": 0,
+        "Arab States": 1,
+        "Asia and the Pacific": 6,
+        "Eurasia": 0,
+        "Europe and North America": 12,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 1
+      },
+      "Type": {
+        "Cultural": 16,
+        "Mixed": 0,
+        "Natural": 4
+      }
+    },
+    "1993": {
+      "Total": 33,
+      "Region":{
+        "Africa": 0,
+        "Arab States": 1,
+        "Asia and the Pacific": 10,
+        "Eurasia": 0,
+        "Europe and North America": 16,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 6
+      },
+      "Type": {
+        "Cultural": 29,
+        "Mixed": 0,
+        "Natural": 4
+      }
+    },
+    "1994": {
+      "Total": 28,
+      "Region":{
+        "Africa": 2,
+        "Arab States": 0,
+        "Asia and the Pacific": 7,
+        "Eurasia": 0,
+        "Europe and North America": 15,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 4
+      },
+      "Type": {
+        "Cultural": 21,
+        "Mixed": 0,
+        "Natural": 7
+      }
+    },
+    "1995": {
+      "Total": 29,
+      "Region":{
+        "Africa": 0,
+        "Arab States": 0,
+        "Asia and the Pacific": 6,
+        "Eurasia": 0,
+        "Europe and North America": 18,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 5
+      },
+      "Type": {
+        "Cultural": 23,
+        "Mixed": 0,
+        "Natural": 6
+      }
+    },
+    "1996": {
+      "Total": 37,
+      "Region":{
+        "Africa": 2,
+        "Arab States": 2,
+        "Asia and the Pacific": 5,
+        "Eurasia": 0,
+        "Europe and North America": 25,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 3
+      },
+      "Type": {
+        "Cultural": 30,
+        "Mixed": 2,
+        "Natural": 5
+      }
+    },
+    "1997": {
+      "Total": 46,
+      "Region":{
+        "Africa": 2,
+        "Arab States": 3,
+        "Asia and the Pacific": 10,
+        "Eurasia": 0,
+        "Europe and North America": 25,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 6
+      },
+      "Type": {
+        "Cultural": 38,
+        "Mixed": 1,
+        "Natural": 7
+      }
+    },
+    "1998": {
+      "Total": 30,
+      "Region":{
+        "Africa": 0,
+        "Arab States": 1,
+        "Asia and the Pacific": 5,
+        "Eurasia": 0,
+        "Europe and North America": 21,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 3
+      },
+      "Type": {
+        "Cultural": 27,
+        "Mixed": 0,
+        "Natural": 3
+      }
+    },
+    "1999": {
+      "Total": 48,
+      "Region":{
+        "Africa": 4,
+        "Arab States": 0,
+        "Asia and the Pacific": 10,
+        "Eurasia": 0,
+        "Europe and North America": 22,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 12
+      },
+      "Type": {
+        "Cultural": 35,
+        "Mixed": 2,
+        "Natural": 11
+      }
+    },
+    "2000": {
+      "Total": 61,
+      "Region":{
+        "Africa": 3,
+        "Arab States": 1,
+        "Asia and the Pacific": 11,
+        "Eurasia": 0,
+        "Europe and North America": 34,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 12
+      },
+      "Type": {
+        "Cultural": 50,
+        "Mixed": 1,
+        "Natural": 10
+      }
+    },
+    "2001": {
+      "Total": 31,
+      "Region":{
+        "Africa": 4,
+        "Arab States": 1,
+        "Asia and the Pacific": 3,
+        "Eurasia": 0,
+        "Europe and North America": 19,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 4
+      },
+      "Type": {
+        "Cultural": 25,
+        "Mixed": 0,
+        "Natural": 6
+      }
+    },
+    "2002": {
+      "Total": 9,
+      "Region":{
+        "Africa": 0,
+        "Arab States": 1,
+        "Asia and the Pacific": 2,
+        "Eurasia": 0,
+        "Europe and North America": 4,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 2
+      },
+      "Type": {
+        "Cultural": 8,
+        "Mixed": 1,
+        "Natural": 0
+      }
+    },
+    "2003": {
+      "Total": 24,
+      "Region":{
+        "Africa": 3,
+        "Arab States": 2,
+        "Asia and the Pacific": 7,
+        "Eurasia": 1,
+        "Europe and North America": 8,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 3
+      },
+      "Type": {
+        "Cultural": 19,
+        "Mixed": 0,
+        "Natural": 5
+      }
+    },
+    "2004": {
+      "Total": 33,
+      "Region":{
+        "Africa": 3,
+        "Arab States": 2,
+        "Asia and the Pacific": 11,
+        "Eurasia": 0,
+        "Europe and North America": 15,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 2
+      },
+      "Type": {
+        "Cultural": 28,
+        "Mixed": 0,
+        "Natural": 5
+      }
+    },
+    "2005": {
+      "Total": 24,
+      "Region":{
+        "Africa": 2,
+        "Arab States": 2,
+        "Asia and the Pacific": 5,
+        "Eurasia": 0,
+        "Europe and North America": 11,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 4
+      },
+      "Type": {
+        "Cultural": 17,
+        "Mixed": 0,
+        "Natural": 7
+      }
+    },
+    "2006": {
+      "Total": 18,
+      "Region":{
+        "Africa": 5,
+        "Arab States": 2,
+        "Asia and the Pacific": 3,
+        "Eurasia": 0,
+        "Europe and North America": 5,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 3
+      },
+      "Type": {
+        "Cultural": 16,
+        "Mixed": 0,
+        "Natural": 2
+      }
+    },
+    "2007": {
+      "Total": 22,
+      "Region":{
+        "Africa": 4,
+        "Arab States": 1,
+        "Asia and the Pacific": 7,
+        "Eurasia": 0,
+        "Europe and North America": 9,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 1
+      },
+      "Type": {
+        "Cultural": 16,
+        "Mixed": 1,
+        "Natural": 5
+      }
+    },
+    "2008": {
+      "Total": 27,
+      "Region":{
+        "Africa": 2,
+        "Arab States": 2,
+        "Asia and the Pacific": 8,
+        "Eurasia": 0,
+        "Europe and North America": 12,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 3
+      },
+      "Type": {
+        "Cultural": 19,
+        "Mixed": 0,
+        "Natural": 8
+      }
+    },
+    "2009": {
+      "Total": 13,
+      "Region":{
+        "Africa": 2,
+        "Arab States": 0,
+        "Asia and the Pacific": 4,
+        "Eurasia": 0,
+        "Europe and North America": 6,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 1
+      },
+      "Type": {
+        "Cultural": 11,
+        "Mixed": 0,
+        "Natural": 2
+      }
+    },
+    "2010": {
+      "Total": 21,
+      "Region":{
+        "Africa": 0,
+        "Arab States": 1,
+        "Asia and the Pacific": 12,
+        "Eurasia": 0,
+        "Europe and North America": 5,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 3
+      },
+      "Type": {
+        "Cultural": 15,
+        "Mixed": 1,
+        "Natural": 5
+      }
+    },
+    "2011": {
+      "Total": 25,
+      "Region":{
+        "Africa": 4,
+        "Arab States": 4,
+        "Asia and the Pacific": 7,
+        "Eurasia": 0,
+        "Europe and North America": 7,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 3
+      },
+      "Type": {
+        "Cultural": 21,
+        "Mixed": 1,
+        "Natural": 3
+      }
+    },
+    "2012": {
+      "Total": 26,
+      "Region":{
+        "Africa": 4,
+        "Arab States": 3,
+        "Asia and the Pacific": 0,
+        "Eurasia": 0,
+        "Europe and North America": 10,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 1
+      },
+      "Type": {
+        "Cultural": 20,
+        "Mixed": 1,
+        "Natural": 5
+      }
+    },
+    "2013": {
+      "Total": 19,
+      "Region":{
+        "Africa": 2,
+        "Arab States": 1,
+        "Asia and the Pacific": 8,
+        "Eurasia": 0,
+        "Europe and North America": 7,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 1
+      },
+      "Type": {
+        "Cultural": 14,
+        "Mixed": 0,
+        "Natural": 5
+      }
+    },
+    "2014": {
+      "Total": 26,
+      "Region":{
+        "Africa": 1,
+        "Arab States": 3,
+        "Asia and the Pacific": 10,
+        "Eurasia": 0,
+        "Europe and North America": 10,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 2
+      },
+      "Type": {
+        "Cultural": 21,
+        "Mixed": 1,
+        "Natural": 4
+      }
+    },
+    "2015": {
+      "Total": 24,
+      "Region":{
+        "Africa": 0,
+        "Arab States": 2,
+        "Asia and the Pacific": 7,
+        "Eurasia": 0,
+        "Europe and North America": 12,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 3
+      },
+      "Type": {
+        "Cultural": 23,
+        "Mixed": 1,
+        "Natural": 0
+      }
+    },
+    "2016": {
+      "Total": 21,
+      "Region":{
+        "Africa": 1,
+        "Arab States": 2,
+        "Asia and the Pacific": 8,
+        "Eurasia": 0,
+        "Europe and North America": 6,
+        "Globally Transnational": 1,
+        "Latin America and the Caribbean": 3
+      },
+      "Type": {
+        "Cultural": 12,
+        "Mixed": 3,
+        "Natural": 6
+      }
+    },
+    "2017": {
+      "Total": 21,
+      "Region":{
+        "Africa": 3,
+        "Arab States": 1,
+        "Asia and the Pacific": 6,
+        "Eurasia": 1,
+        "Europe and North America": 8,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 2
+      },
+      "Type": {
+        "Cultural": 18,
+        "Mixed": 0,
+        "Natural": 3
+      }
+    },
+    "2018": {
+      "Total": 19,
+      "Region":{
+        "Africa": 2,
+        "Arab States": 2,
+        "Asia and the Pacific": 5,
+        "Eurasia": 0,
+        "Europe and North America": 8,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 2
+      },
+      "Type": {
+        "Cultural": 13,
+        "Mixed": 1,
+        "Natural": 3
+      }
+    },
+	"2019": {
+      "Total": 29,
+      "Region":{
+        "Africa": 1,
+        "Arab States": 2,
+        "Asia and the Pacific": 10,
+        "Europe and North America": 15,
+        "Eurasia": 0,
+        "Globally Transnational": 0,
+        "Latin America and the Caribbean": 1
+      },
+      "Type": {
+        "Cultural": 24,
+        "Mixed": 1,
+        "Natural": 4
+      }
+    }
+  }
+}
