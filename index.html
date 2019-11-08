@@ -215,33 +215,21 @@
                 <p class="sub-title pad-bt15">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br>tempor incididunt ut labore et dolore magna aliqua.</p>
             <hr class="bottom-line">
           </div>
-          <div id="curve_chart" style="width: 900px; height: 500px"></div>
-
-            
-            <!--Chartist stuff-->
-            <div class="ct-chart ct-perfect-fourth">
-         <script>
-   fetch('data/unesco-data.json')
-  .then(function(response) {
-    return response.json();
-  })
-  .then(function(ids) {
-  //data variable will go here
-    var data = {
-      labels: ids.map(function(id) {
-        return id.date_inscribed;
-      }),
-      series: ids.map(function(id) {
-        return id.region_en;
-      })
-    };
-  
-   //define chart variable will go here
-     new Chartist.line('.ct-chart', data);
-  });
-          </script>
-</div>
-            <!--End of line-->
+          
+ <!--I guess there's just no way of knowing -->
+     <section id="types" class="section-padding wow fadeInUp delay-05s">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h2 class="service-title pad-bt15">Comparison of World Heritage Sites Types</h2>
+            <p class="sub-title pad-bt15">This chart shows the of cultural, natural, and mixed World Heritage Sites as of the most recent incription, which is the fancy word for being added to the list. Cultural sites are far the most prevalent World Heritage additions.</p>
+            <hr class="bottom-line">
+        <center><div id="curve_chart" style="width: 900px; height: 500px"></div>
+        </div>
+        </div>
+      </div>
+    </section>
+<!--End of line-->
             
         
           <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item padding-right-zero mr-btn-15">
