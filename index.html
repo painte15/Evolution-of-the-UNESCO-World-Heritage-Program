@@ -58,9 +58,9 @@
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
       google.charts.load('current', {'packages':['corechart']});
-      google.charts.setOnLoadCallback(drawChart);
+      google.charts.setOnLoadCallback(drawThisChart);
 
-      function drawChart() {
+      function drawThisChart() {
 
         var data = google.visualization.arrayToDataTable([
           ['Types of World Heritage Site', 'Number of sites'],
@@ -84,10 +84,10 @@
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
       google.charts.load('current', {'packages':['corechart']});
-      google.charts.setOnLoadCallback(drawChart);
+      google.charts.setOnLoadCallback(drawNewChart);
 
 
-      function drawChart() {
+      function drawNewChart() {
 	      
         var data = google.visualization.arrayToDataTable([
           ['Year', 'Africa', 'Arab States', ‘Asia Pacific’, ‘Europe and North America’, ‘Latin America and the Caribbean’],
